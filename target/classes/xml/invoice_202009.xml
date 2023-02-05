@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ventas>
+    <articulo>
+        <nombre>Fiesta Glam</nombre>
+        <tipo>Fiesta Glam</tipo>
+        <fecha>29/08/2020</fecha>
+        <precio>70,00</precio>
+        <coste>48.1</coste>
+        <beneficio>21.9</beneficio>
+    </articulo>
+    <articulo>
+        <nombre>Fiesta Glam</nombre>
+        <tipo>Fiesta Glam</tipo>
+        <fecha>30/08/2020</fecha>
+        <precio>70,00</precio>
+        <coste>48.1</coste>
+        <beneficio>21.9</beneficio>
+    </articulo>
+    <articulo>
+        <nombre>Snoopy</nombre>
+        <tipo>Snoopy</tipo>
+        <fecha>29/08/2020</fecha>
+        <precio>8,00</precio>
+        <coste>5.9</coste>
+        <beneficio>2.0999999999999996</beneficio>
+    </articulo>
+    <articulo>
+        <nombre>Friends</nombre>
+        <tipo>Friends</tipo>
+        <fecha>30/08/2020</fecha>
+        <precio>8,00</precio>
+        <coste>5.9</coste>
+        <beneficio>2.0999999999999996</beneficio>
+    </articulo>
+</ventas>

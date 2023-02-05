@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+	<article>
+			<name>Snoopy</name>
+			<type>Camiseta</type>
+			<saleDate>20/10/2022</saleDate>
+			<deliverDate>25/10/2022</deliverDate>
+			<status>confirmado</status>
+	</article>
+	<article>
+			<name>Fiesta Glam</name>
+			<type>Vestido</type>
+			<saleDate>20/10/2022</saleDate>
+			<deliverDate>25/10/2022</deliverDate>
+			<status>pendiente</status>
+	</article>
+	<article>
+			<name>Friends</name>
+			<type>Camiseta</type>
+			<saleDate>10/10/2022</saleDate>
+			<deliverDate>15/10/2022</deliverDate>
+			<status>finalizado</status>
+	</article>
+	<article>
+			<name>Fiesta Glam</name>
+			<type>Vestido</type>
+			<saleDate>10/10/2022</saleDate>
+			<deliverDate>15/10/2022</deliverDate>
+			<status>pendiente</status>
+	</article>
+	<article>
+			<name>Snoopy</name>
+			<type>Camiseta</type>
+			<saleDate>20/09/2022</saleDate>
+			<deliverDate>25/09/2022</deliverDate>
+			<status>pendiente</status>
+	</article>
+	<article>
+			<name>Friends</name>
+			<type>Camiseta</type>
+			<saleDate>20/09/2022</saleDate>
+			<deliverDate>25/09/2022</deliverDate>
+			<status>finalizado</status>
+	</article>
+</orders>

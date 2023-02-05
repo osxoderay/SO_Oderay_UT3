@@ -1,0 +1,5 @@
+Articulo;Tipo;FechaDeVenta;PrecioDeVenta;CosteDerivados;CostesProduccion;Impuestos
+Fiesta Glam;Vestido;29/08/2020;70,00;2,1;14,70;31,30
+Fiesta Glam;Vestido;30/08/2020;70,00;2,1;14,70;31,30
+Snoopy;Camiseta;29/08/2020;8,00;1,9;1,68;2,32
+Friends;Camiseta;30/08/2020;8,00;1,9;1,68;2,32
